@@ -1,0 +1,16 @@
+C:\Users\stivi\.jdks\openjdk-23.0.1\bin\java.exe "-javaagent:C:\Users\stivi\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar=6182:C:\Users\stivi\AppData\Local\Programs\IntelliJ IDEA Community Edition\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath D:\JAVA\_Projects\AdventOfCode2024\target\classes cz.sliva.Day8.Day8
+------------------------------------------------------------
+ ADVENT OF CODE
+------------------------------------------------------------
+ https://adventofcode.com/2024/day/8
+ Day 8, second part
+ autor: Roman Sliva
+ portfolio: sliva-roman.cz
+------------------------------------------------------------
+ IntelliJ Community Edition 2023.3.3 Java 17 SDK
+------------------------------------------------------------
+Start.
+8x CPU Threads
+ Poèet unikátních kódu je 303x 
+
+Process finished with exit code 0

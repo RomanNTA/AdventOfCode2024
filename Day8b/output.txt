@@ -1,0 +1,16 @@
+------------------------------------------------------------
+ ADVENT OF CODE
+------------------------------------------------------------
+ https://adventofcode.com/2024/day/8
+ Day 8, second part
+ autor: Roman Sliva
+ portfolio: sliva-roman.cz
+------------------------------------------------------------
+ IntelliJ Community Edition 2023.3.3 Java 17 SDK
+------------------------------------------------------------
+Start.
+8x CPU Threads
+ Počet unikátních kódu je 1045x 
+Disconnected from the target VM, address: '127.0.0.1:5084', transport: 'socket'
+
+Process finished with exit code 0
