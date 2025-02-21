@@ -1,0 +1,24 @@
+C:\Users\stivi\.jdks\openjdk-23.0.1\bin\java.exe -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:5396,suspend=y,server=n -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\JAVA\_Projects\AdventOfCode2024\target\classes;C:\Users\stivi\AppData\Local\Programs\IntelliJ IDEA Community Edition\lib\idea_rt.jar" cz.sliva.Day10b.Day10b
+Connected to the target VM, address: '127.0.0.1:5396', transport: 'socket'
+------------------------------------------------------------
+ ADVENT OF CODE
+------------------------------------------------------------
+ https://adventofcode.com/2024/day/10
+ Day 10
+ autor: Roman Sliva
+ portfolio: sliva-roman.cz
+------------------------------------------------------------
+ IntelliJ Community Edition 2023.3.3 Java 17 SDK
+------------------------------------------------------------
+Start.
+------------------------------------------------------------
+8x CPU Threads
+------------------------------------------------------------
+Start threads.
+------------------------------------------------------------
+Konec: Celkový součet stezek na vrcholy je 1116.
+
+
+Disconnected from the target VM, address: '127.0.0.1:5396', transport: 'socket'
+
+Process finished with exit code 0
